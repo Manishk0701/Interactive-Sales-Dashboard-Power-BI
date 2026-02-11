@@ -62,4 +62,4 @@ To analyze and visualize mobile sales performance through:
 ## 💻 How to Use
 1. Clone this repository:
    ```bash
- https://github.com/Satyashil1210/Interactive-Sales-Dashboard-Power-BI-Project/tree/main
+ https://github.com/Manishk0701/Interactive-Sales-Dashboard-Power-BI
